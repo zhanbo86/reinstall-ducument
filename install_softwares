@@ -1,0 +1,10 @@
+1.Ubuntu 14.04LTS
+2.eigen
+3.qt5.7.0
+4.qpOASES-3.2.0
+5.orocos_kdl
+6.ros-indigo-desktop-full
+7.ros-indigo-gazebo6-ros-pkgs ros-indigo-gazebo6-ros-control ros-indigo-gazebo6-msgs ros-indigo-gazebo6-ros ros-indigo-gazebo6-plugins
+8.ros-indigo-ros-control ros-indigo-ros-controllers 
+9.qt57creator-plugin-ros
+
